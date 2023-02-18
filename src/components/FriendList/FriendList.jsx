@@ -25,3 +25,4 @@ export const FriendList = ({ friends }) => {
     </FriendsContainer>
   );
 };
+console.log(FriendList());
