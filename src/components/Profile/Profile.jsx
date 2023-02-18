@@ -11,6 +11,7 @@ import {
   Popularity,
   Quantity,
 } from './Profile.styled';
+
 export const Profile = ({
   username,
   tag,
