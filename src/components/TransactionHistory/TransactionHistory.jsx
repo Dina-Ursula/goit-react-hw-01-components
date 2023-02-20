@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import {
   TransactionBox,
-  MainDescriptionContainer,
   Description,
   TypeName,
   TypeAmount,
