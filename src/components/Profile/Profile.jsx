@@ -27,7 +27,6 @@ export const Profile = ({
         <Tag>@{tag}</Tag>
         <Location>{location}</Location>
       </UserInfo>
-
       <StatsList>
         <Item>
           <Popularity>Followers</Popularity>
